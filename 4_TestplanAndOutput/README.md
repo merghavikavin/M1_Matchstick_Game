@@ -8,9 +8,9 @@
 
 # Low Level Test Plan
 
-|*Test ID|HL_ID|Description|Exp output|Actual Output*|
+|*Test ID|Description|Exp output|Actual Output*|
 |---|---|---|---|---|---|
-|L_01| Selecting Match sticks|SUCCESS|
-|L_02| Takes turns|SUCCESS|
-|L_03| Person Selecting last match Stick loses|SUCCESS|	
+|L_01|	Selecting Matchsticks|SUCCESS|SUCCESS
+|L_02|	Takes turns|SUCCESS|SUCCESS
+|L_03|  Selecting the last stick loses|SUCCESS|SUCCESS
 
