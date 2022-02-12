@@ -6,7 +6,7 @@
 |H_02| User have 50/50 chance to win|	Choice|	SUCCESS|	SUCCESS
 |H_03| Computer have 50/50 chance to win|	Choice|	SUCCESS|	SUCCESS
 
-## Low Level Test Plan
+# Low Level Test Plan
 
 |*Test ID|HL_ID|Description|Exp output|Actual Output*|
 |---|---|---|---|---|---|
