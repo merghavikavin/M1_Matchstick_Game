@@ -10,7 +10,7 @@
 
 |*Test ID|Description|Exp output|Actual Output*|
 |---|---|---|---|---|---|
-|L_01|	Selecting Matchsticks|SUCCESS|SUCCESS
-|L_02|	Takes turns|SUCCESS|SUCCESS
+|L_01|	Selecting Matchsticks|  SUCCESS|       SUCCESS
+|L_02|	Takes turns|            SUCCESS|       SUCCESS
 |L_03|  Selecting the last stick loses|SUCCESS|SUCCESS
 
