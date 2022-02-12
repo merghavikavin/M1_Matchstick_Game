@@ -8,9 +8,9 @@
 
 ## Low Level Test Plan
 
-|*Test ID|HL_ID|Description|Exp input|Exp Output|Actual Output*|
+|*Test ID|HL_ID|Description|Exp output|Actual Output*|
 |---|---|---|---|---|---|
-|L_01|	H_01|	Selecting Match sticks|	1 |	2 | 3 |
-|L_02|	H_01|	Admin can view records of employees|	50|	235|	235
-|L_03|	H_01|	Admin can search employees|	150|	937.5|	937.5
+|L_01|	H_01|	Selecting Match sticks|SUCCESS|
+|L_02|	H_01|	Takes turns|SUCCESS|
+|L_03|	H_01|	Person Selecting last match Stick loses|SUCCESS|	
 
