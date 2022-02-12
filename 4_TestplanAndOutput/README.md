@@ -10,7 +10,7 @@
 
 |*Test ID|HL_ID|Description|Exp output|Actual Output*|
 |---|---|---|---|---|---|
-|L_01|	H_01|	Selecting Match sticks|SUCCESS|
-|L_02|	H_01|	Takes turns|SUCCESS|
-|L_03|	H_01|	Person Selecting last match Stick loses|SUCCESS|	
+|L_01||H_01|	Selecting Match sticks|SUCCESS|
+|L_02||H_01|	Takes turns|SUCCESS|
+|L_03||H_01|	Person Selecting last match Stick loses|SUCCESS|	
 
