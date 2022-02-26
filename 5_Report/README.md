@@ -28,7 +28,7 @@ then: c = 5 – p;
      
      * WHERE- The user can play this with the computer implemented through any c compiler.
      
-     * WHY -  It is for entertainment and can help us to loosen up.
+     * WHY - It is for entertainment and can help us to loosen up.
      
      * HOW -  This game is implemented using any c compiler.
 
@@ -52,9 +52,9 @@ then: c = 5 – p;
 
 # Main Code
      #include <stdio.h>
-#include <windows.h>
-int main()
-{
+     #include <windows.h>
+     int main()
+ {
     int m = 21, p, c;  
   
     while(1)  
@@ -88,8 +88,8 @@ int main()
 }
 
    /* User Picked Function*/
-user_picked(total)
-{
+ user_picked(total)
+ {
 int me;
 char ch;
 int wrong = 1;
