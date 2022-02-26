@@ -37,10 +37,10 @@ then: c = 5 – p;
 
 # Structural Diagram
 # Class Diagram
-       ![GameClassDia](https://user-images.githubusercontent.com/59721579/155854193-a8d23ce2-1b4c-445c-a64f-666ea07f990f.JPG)
+       [GameClassDia](https://user-images.githubusercontent.com/59721579/155854193-a8d23ce2-1b4c-445c-a64f-666ea07f990f.JPG)
 # Behavioural Diagram
 # Flow Chart
-       ![gameflowarchitect](https://user-images.githubusercontent.com/59721579/155854231-cb652b72-87f2-4ca9-a19e-80813f4a1533.JPG)
+       [gameflowarchitect](https://user-images.githubusercontent.com/59721579/155854231-cb652b72-87f2-4ca9-a19e-80813f4a1533.JPG)
 # IMPLEMENTATION
 # High Level Test Plan
        |*Test ID|Description|Exp input|Exp output|Actual Output*|
