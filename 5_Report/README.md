@@ -170,5 +170,4 @@ return(me);
 
 # References
         https://itsourcecode.com/free-projects/c-projects/matchstick-game-in-c-with-source-code/
-        https://www.sourcecodester.com/
 
