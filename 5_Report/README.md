@@ -40,7 +40,8 @@ then: c = 5 – p;
       It is a conceptual modeling tool used to document the different structures that make up a system such as a database or an application. It shows the hierarchy or structure of the different components or modules of the system and shows how they connect and interact with each other.
       Here for this gaming project Flow chart is depicted as structural Diagram.
  
-     
+![gameflowarchitect](https://user-images.githubusercontent.com/59721579/154512260-1cbc8796-953f-4f08-ab67-d0412adb5030.JPG)
+    
       
       
 # Behavioral Diagram
