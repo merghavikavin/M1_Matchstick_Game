@@ -152,11 +152,6 @@ return(me);
 
 # Output
 
-        ![GameOutput](https://user-images.githubusercontent.com/59721579/155854660-2294dc0b-3978-4a90-a907-4b5d853e89de.JPG)
 
-
-
-# References
-        https://itsourcecode.com/free-projects/c-projects/matchstick-game-in-c-with-source-code/
 
 
