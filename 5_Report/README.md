@@ -22,15 +22,15 @@ then: c = 5 – p;
      *Threat- Risk of failing to maintain a fun factor when computer is compromised.
      
 # 4W's and 1H's
-     * WHO -  Player1 is the Computer and Player2 can be any person i.e the user.
+    * WHO -  Player1 is the Computer and Player2 can be any person i.e the user.
      
-     * WHAT - It is a simple easy game that can be played with two players.
+    * WHAT - It is a simple easy game that can be played with two players.
      
-     * WHERE- The user can play this with the computer implemented through any c compiler.
+    * WHERE- The user can play this with the computer implemented through any c compiler.
      
-     * WHY - It is for entertainment and can help us to loosen up.
+    * WHY - It is for entertainment and can help us to loosen up.
      
-     * HOW -  This game is implemented using any c compiler.
+    * HOW -  This game is implemented using any c compiler.
 
 # ARCHITECTURE
       For this gaming code,the diagramatic representation of it's working and operations are depicted below.
