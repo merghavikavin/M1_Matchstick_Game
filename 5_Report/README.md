@@ -33,11 +33,20 @@ then: c = 5 – p;
     * HOW -  This game is implemented using any c compiler.
 
 # ARCHITECTURE
-      For this gaming code,the diagramatic representation of it's working and operations are depicted below.
+      For this gaming code,the diagramatic representation of it's working and operations are simple.It refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
+      
+# Structural Diagram
+      It is a conceptual modeling tool used to document the different structures that make up a system such as a database or an application. It shows the hierarchy or structure of the different components or modules of the system and shows how they connect and interact with each other.
+      
+      
+      
+# Behavioral Diagram
+      It is a portray of a dynamic view of a system or the behavior of a system, which describes the functioning of the system. It includes use case diagrams, state diagrams, and activity diagrams. It defines the interaction within the system. State Machine 
+
 
 # Output
 
-         [GameOutput](https://user-images.githubusercontent.com/59721579/155873339-a4b42872-e868-4645-896b-56304cc02b42.JPG)
+         ![GameOutput](https://user-images.githubusercontent.com/59721579/155873339-a4b42872-e868-4645-896b-56304cc02b42.JPG)
 
 
 
