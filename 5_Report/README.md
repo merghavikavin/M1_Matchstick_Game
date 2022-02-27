@@ -51,7 +51,7 @@ then: c = 5 – p;
 
 # Output
 
-         [GameOutput](https://user-images.githubusercontent.com/59721579/155873339-a4b42872-e868-4645-896b-56304cc02b42.JPG)
+         (GameOutput)[https://user-images.githubusercontent.com/59721579/155873339-a4b42872-e868-4645-896b-56304cc02b42.JPG]
 
 
 
