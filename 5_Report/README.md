@@ -34,27 +34,16 @@ then: c = 5 – p;
 
 # ARCHITECTURE
       For this gaming code,the diagramatic representation of it's working and operations are depicted below.
-
-# Structural Diagram
-# Class Diagram
-       ![GameClassDia](https://user-images.githubusercontent.com/59721579/155854193-a8d23ce2-1b4c-445c-a64f-666ea07f990f.JPG)
-# Behavioural Diagram
-# Flow Chart
-      ![gameflowarchitect](https://user-images.githubusercontent.com/59721579/154512260-1cbc8796-953f-4f08-ab67-d0412adb5030.JPG)
+      
 # IMPLEMENTATION
-# High Level Test Plan
-       |*Test ID|Description|Exp input|Exp output|Actual Output*|
-|----|----|----|---|---|
-|H_01| Computer picks up after user does|	Choice|SUCCESS|	SUCCESS
-|H_02| User have 50/50 chance to win|	Choice|	SUCCESS|	SUCCESS
-|H_03| Computer have 50/50 chance to win|	Choice|	SUCCESS|	SUCCESS
 
 
 # Main Code
-     #include <stdio.h>
-     #include <windows.h>
-     int main()
- {
+    
+#include <stdio.h>
+#include <windows.h>
+int main()
+{
     int m = 21, p, c;  
   
     while(1)  
@@ -86,10 +75,9 @@ then: c = 5 – p;
   
     return 0;  
 }
-
-   /* User Picked Function*/
- user_picked(total)
- {
+/* User Picked Function*/
+user_picked(total)
+{
 int me;
 char ch;
 int wrong = 1;
@@ -121,8 +109,7 @@ gotoxy(55,14);
 printf(" ");
 return(me);
 }
-
-/Comp_picked function/
+/*Comp_picked function*/
 comp_picked(total)
 {
 int me;
@@ -160,6 +147,7 @@ gotoxy(29,14);
 printf(" ");
 return(me);
 }
+
 
 
 # Output
