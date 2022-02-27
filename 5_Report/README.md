@@ -5,11 +5,11 @@ then: c = 5 – p;
    I have taken the base sourcecode from 21 match sticks game in FreeSourceCode.net and I modified it with user picking and computer picking features which allows both of the players to have an equal chance of winning
 # REQUIREMENTS
 # HIGH LEVEL REQUIREMENTS
-     *adding up a new feature to cancel the trick where computer wins.
-     *make sure the while loop keeps executing until a break statement is occurred inside the loop to terminate the execution of the loop.
+    1.Adding up a new feature to cancel the trick where computer wins.
+    2.Make sure the while loop keeps executing until a break statement is occurred inside the loop to terminate the execution of the loop.
 # LOW LEVEL REQUIREMENTS
-     *Two players- The Computer and The User
-     *create sourcecode.c to comply the game
+     1.Two players- The Computer and The User
+     2.create sourcecode.c to comply the game
          -> There are ample matchsticks
          -> The computer asks the player to pick 1, 2, 3 or 4 matchsticks.
          -> After the person picks, the computer does its picking.
