@@ -40,7 +40,7 @@ then: c = 5 – p;
        ![GameClassDia](https://user-images.githubusercontent.com/59721579/155854193-a8d23ce2-1b4c-445c-a64f-666ea07f990f.JPG)
 # Behavioural Diagram
 # Flow Chart
-       ![gameflowarchitect](https://user-images.githubusercontent.com/59721579/155854231-cb652b72-87f2-4ca9-a19e-80813f4a1533.JPG)
+      ![gameflowarchitect](https://user-images.githubusercontent.com/59721579/154512260-1cbc8796-953f-4f08-ab67-d0412adb5030.JPG)
 # IMPLEMENTATION
 # High Level Test Plan
        |*Test ID|Description|Exp input|Exp output|Actual Output*|
