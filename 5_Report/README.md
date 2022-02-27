@@ -39,13 +39,17 @@ then: c = 5 – p;
 # Structural Diagram
       It is a conceptual modeling tool used to document the different structures that make up a system such as a database or an application. It shows the hierarchy or structure of the different components or modules of the system and shows how they connect and interact with each other.
       Here for this gaming project Flow chart is depicted as structural Diagram.
-      
+ 
+     
       
       
 # Behavioral Diagram
       It is a portray of a dynamic view of a system or the behavior of a system, which describes the functioning of the system. It includes use case diagrams, state diagrams, and activity diagrams. It defines the interaction within the system. 
       Class Diagram is included as behavioral diagrams in this project.
-      
+
+![GameClassDia](https://user-images.githubusercontent.com/59721579/155831890-50641e15-ed55-4f11-b734-7f51378eea44.JPG)
+
+
 # IMPLEMENTATION
 
 
